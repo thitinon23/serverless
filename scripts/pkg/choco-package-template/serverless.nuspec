@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>serverless</id>
+    <version>TO_BE_GENERATED</version>
+    <title>Serverless Framework</title>
+    <authors>Serverless Inc.</authors>
+    <projectUrl>https://serverless.com/</projectUrl>
+    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/serverless.png</iconUrl>-->
+    <copyright>TO_BE_GENERATED</copyright>
+    <licenseUrl>https://github.com/serverless/serverless/blob/master/LICENSE.txt</licenseUrl>
+    <projectSourceUrl>https://github.com/serverless/serverless/</projectSourceUrl>
+    <docsUrl>https://serverless.com/framework/docs/</docsUrl>
+    <bugTrackerUrl>https://github.com/serverless/serverless/issues</bugTrackerUrl>
+    <tags>TO_BE_GENERATED</tags>
+    <summary>TO_BE_GENERATED</summary>
+    <description>TO_BE_GENERATED</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
